@@ -1,7 +1,7 @@
 baseURL: https://chapter-07-18.hugoinaction.com
 languageCode: en-us
 title: Acme Corporation
-theme: AcmeTheme
+theme: https://github.com/CoveTar/Eclectic
 enableEmoji: true
 enableGitInfo: true
 pagination:
