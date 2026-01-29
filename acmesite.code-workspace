@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../acmetheme"
+		},
+		{
+			"path": "../acmecommon"
 		}
 	],
 	"settings": {}

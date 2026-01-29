@@ -2,3 +2,5 @@ github.com/CoveTar/acmetheme v1.0.0 h1:DLG53me3DxtQc/iFIcI9eiVvk2T6t3HdJitneJNPz
 github.com/CoveTar/acmetheme v1.0.0/go.mod h1:tKZprxhpYCd7Pkbfn98cMYcqIPjcDdOv5ZKXewhtgMk=
 github.com/hugoinaction/AcmeSupport v0.0.0-20220201175812-abfd2f9e63bb h1:/eD7Qha/pqYvcJClZxhEEL1dtfziO4OhFdJHs8GMLbQ=
 github.com/hugoinaction/AcmeSupport v0.0.0-20220201175812-abfd2f9e63bb/go.mod h1:kGNexn9VmQvIar/+RG6cW2Q1daLa/QPwWCLLX/N7gNA=
+github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f h1:dKZYPXzYt0zXGm82D3YufsaMvbPTIIV5jibKUvQcl5g=
+github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f/go.mod h1:YA0Taxzbbqz9oEvtMUW/uuPRE2v93r0WPMLkWaqiuBs=
