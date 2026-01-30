@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../acmecommon"
+		},
+		{
+			"path": "../termsprivacy"
 		}
 	],
 	"settings": {}
