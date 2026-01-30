@@ -1,3 +1,5 @@
+github.com/CoveTar/acmecommon v0.0.0-20260129155034-88a26f4d4183 h1:kh23B7Yu8b38HdgpAXgDSEsTZeOjunIDoDdpeB/gie0=
+github.com/CoveTar/acmecommon v0.0.0-20260129155034-88a26f4d4183/go.mod h1:wA2xjaUvanrtHyqjSSuTsgqVieRKQGcP8Q51Q+EP9Hc=
 github.com/CoveTar/acmetheme v1.0.0 h1:DLG53me3DxtQc/iFIcI9eiVvk2T6t3HdJitneJNPz4U=
 github.com/CoveTar/acmetheme v1.0.0/go.mod h1:tKZprxhpYCd7Pkbfn98cMYcqIPjcDdOv5ZKXewhtgMk=
 github.com/hugoinaction/AcmeSupport v0.0.0-20220201175812-abfd2f9e63bb h1:/eD7Qha/pqYvcJClZxhEEL1dtfziO4OhFdJHs8GMLbQ=
